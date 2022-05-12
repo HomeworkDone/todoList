@@ -1,0 +1,2 @@
+.TodoItem{margin:0 auto 10px;height:70px;border-radius:70px;padding-left:15px;padding-right:15px;border:1px solid #000;display:flex;align-items:center;justify-content:space-between}.TodoItem:hover{background-color:#f0f0f0}.TodoItem:hover .ItemBtn{display:inline}.TodoItem .ItemBtn{display:none}.ant-btn{margin-left:10px}.leftMenu{position:absolute;left:100px;top:100px}.ant-input{width:600px;height:50px;border-radius:50px;margin-bottom:10px}.App{text-align:center;display:flex;justify-content:center;margin-top:100px}
+/*# sourceMappingURL=main.05dc176b.chunk.css.map */
